@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.EcoApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize colors later -->
+    </style>
+
+</resources>
