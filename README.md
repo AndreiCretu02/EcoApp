@@ -16,12 +16,12 @@ EcoApp is a gamified mobile application that encourages users to walk and explor
 
 As the user moves in real life, parts of the map are revealed (fog-of-war system), and restaurants appear dynamically. By collecting food offers, users gain XP and contribute to reducing food waste, CO₂ emissions, and water waste.
 
-![Logo]WhatsApp Image 2026-04-05 at 00.11.56.jpeg
-![MapFragment]MapFragment.png
-![FoodOffer]FoodOffer.png
-![OffersFragment]OffersFragment.png
-![Dashboard]DashboardFragment.png
-![Profile]ProfileFragment.png
+![Logo](WhatsApp Image 2026-04-05 at 00.11.56.jpeg)
+![MapFragment](MapFragment.png)
+![FoodOffer](FoodOffer.png)
+![OffersFragment](OffersFragment.png)
+![Dashboard](DashboardFragment.png)
+![Profile](ProfileFragment.png)
 
 ### 🔥 Why it's useful
 
