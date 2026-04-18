@@ -4,9 +4,9 @@
 
 ## 📌 Workspace
 
-- Repository: https://github.com/YOUR_USERNAME/YOUR_REPO
+- Repository: https://github.com/AndreiCretu02/EcoApp
 - Releases: (optional)
-- Workspace: (your university link if needed)
+- Workspace: https://upm365.sharepoint.com/sites/MAD_T/SitePages/TRACKING.aspx?csf=1&web=1&share=IQDiRkzRRNBbS4tZ_z9jheynAdaJGXIhmSK_DzuxCt7lEfY&e=yi5v0N&CID=97d695f9-7db3-425e-8744-edb70be97942
 
 ---
 
