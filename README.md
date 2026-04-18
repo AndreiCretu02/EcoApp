@@ -36,6 +36,7 @@ As the user moves in real life, parts of the map are revealed (fog-of-war system
 - Gamifies sustainability
 
 ### 📽️Demo Video
+https://youtu.be/QiGre4KguH0
 
 ### 📊 Compared to other apps
 
@@ -83,4 +84,4 @@ Unlike standard food apps or maps:
 
 ### 👨‍💻 Participants
 Cretu Andrei-Horia (andrei-horia.cretu@alumnos.upm.es)
-Tolea Tudor-Andrei (
+Tolea Tudor-Andrei (tudor-andrei.tolea@alumnos.upm.es)
